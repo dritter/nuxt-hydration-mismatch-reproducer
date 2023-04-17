@@ -1,6 +1,6 @@
 <template>
   <div>
-    <my-component></my-component>
+    <my-component><div></div></my-component>
     <NuxtWelcome />
   </div>
 </template>
